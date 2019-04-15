@@ -11,6 +11,7 @@ var bands = keys.bit;
 var input = process.argv;
 var command = process.argv[2];
 var search = process.argv[3];
+var br = "=====";
 
 for (let index = 4; index < input.length; index++) {
     const element = input[index];
@@ -28,10 +29,19 @@ function liri(commandTerm, searchTerm) {
                     var dataArr = response.data;
                     for (let index = 0; index < dataArr.length; index++) {
                         const element = dataArr[index];
-                        console.log(element.lineup[0] + " will be performing at " + element.venue.name);
-                        console.log("Located in " + element.venue.city);
-                        console.log("Doors open  " + element.datetime);
-                        console.log("=====");
+                        var lineup = element.lineup[0] + " will be performing at " + element.venue.name;
+                        var concertLocation = "Located in " + element.venue.city;
+                        var concertTime = "Doors open  " + element.datetime;
+                        var logThis = lineup + "\n" + concertLocation + "\n" + concertTime + "\n" + br + "\n";
+                        fs.appendFile("./log.txt", logThis, function(error) {
+                            if (error) {
+                                return console.log(error);
+                            }
+                        });
+                        console.log(lineup);
+                        console.log(concertLocation);
+                        console.log(concertTime);
+                        console.log(br);
                     }
                 }
             )
@@ -44,11 +54,21 @@ function liri(commandTerm, searchTerm) {
                     console.log("Looks like you didn't search for anything, try this!");
                     for (let index = 0; index < dataArr.length; index++) {
                         const element = dataArr[index];
-                        console.log(element.name);
-                        console.log("By" + element.artists[0].name);
-                        console.log(element.album.name);
-                        console.log(element.external_urls.spotify);
-                        console.log("======");
+                        var name = element.name;
+                        var artist = "By" + element.artists[0].name;
+                        var album = element.album.name;
+                        var link = element.external_urls.spotify;
+                        var logThis = "Looks like you didn't search for anything, try this!" + "\n" + name + "\n" + artist + "\n" + album + "\n" + link + "\n" + br + "\n";
+                        fs.appendFile("./log.txt", logThis, function(error) {
+                            if (error) {
+                                return console.log(error);
+                            }
+                        });
+                        console.log(name);
+                        console.log(artist);
+                        console.log(album);
+                        console.log(link);
+                        console.log(br);
                     }
                 });
             } else {
@@ -56,12 +76,21 @@ function liri(commandTerm, searchTerm) {
                     var dataArr = response.tracks.items;
                     for (let index = 0; index < dataArr.length; index++) {
                         const element = dataArr[index];
-                        
-                        console.log("Artist name: ", element.artists[0].name);
-                        console.log("Album name: ", element.album.name);
-                        console.log("Song name:", element.name);
-                        console.log("Play a sample: ", element.external_urls.spotify);
-                        console.log("======");
+                        var artist = "Artist name: " + element.artists[0].name;
+                        var album = "Album name: " + element.album.name;
+                        var song = "Song name:" + element.name;
+                        var link = "Play a sample: " + element.external_urls.spotify;
+                        var logThis = artist + "\n" + album + "\n" + song + "\n" + link + "\n" + br + "\n";
+                        fs.appendFile("./log.txt", logThis, function(error) {
+                            if (error) {
+                                return console.log(error);
+                            }
+                        });
+                        console.log(artist);
+                        console.log(album);
+                        console.log(song);
+                        console.log(link);
+                        console.log(br);
                     }
                     // console.log(response.tracks.items[0]);
                 }).catch(function(error) {
@@ -80,17 +109,28 @@ function liri(commandTerm, searchTerm) {
                     function(response) {
                         var data = response.data;
                         var ratingsArr = data.Ratings;
-    
-                        console.log(data.Title + " was released in " + data.Year);
-                        console.log(data.Plot);
-                        console.log("Directed by: " + data.Director);
+                        var title = data.Title + " was released in " + data.Year;
+                        var plot = data.Plot;
+                        var director = "Directed by: " + data.Director;
+                        var country = "Country of origin: " + data.Country;
+                        var language = "Original language: " + data.Language;
+                        var actors = "Actors in film: " + data.Actors;
+                        var logThis = title + "\n" + plot + "\n" + director + "\n" + country + "\n" + language + "\n" + actors + "\n" + br + "\n";
+                        fs.appendFile("./log.txt", logThis, function(error) {
+                            if (error) {
+                                return console.log(error);
+                            }
+                        });
+                        console.log(title);
+                        console.log(plot);
+                        console.log(director);
                         for (let index = 0; index < ratingsArr.length; index++) {
                             const element = ratingsArr[index];
                             console.log(element.Source + " rated this: " + element.Value);
                         }
-                        console.log("Country of origin: " + data.Country);
-                        console.log("Original language: " + data.Language);
-                        console.log("Actors in film: " + data.Actors);
+                        console.log(country);
+                        console.log(language);
+                        console.log(actors);
                     }
                 )
             } else {
@@ -102,17 +142,28 @@ function liri(commandTerm, searchTerm) {
                     function(response) {
                         var data = response.data;
                         var ratingsArr = data.Ratings;
-    
-                        console.log(data.Title + " was released in " + data.Year);
-                        console.log(data.Plot);
-                        console.log("Directed by: " + data.Director);
+                        var title = data.Title + " was released in " + data.Year;
+                        var plot = data.Plot;
+                        var director = "Directed by: " + data.Director;
+                        var country = "Country of origin: " + data.Country;
+                        var language = "Original language: " + data.Language;
+                        var actors = "Actors in film: " + data.Actors;
+                        var logThis = title + "\n" + plot + "\n" + director + "\n" + country + "\n" + language + "\n" + actors + "\n" + br + "\n";
+                        fs.appendFile("./log.txt", logThis, function(error) {
+                            if (error) {
+                                return console.log(error);
+                            }
+                        });
+                        console.log(title);
+                        console.log(plot);
+                        console.log(director);
                         for (let index = 0; index < ratingsArr.length; index++) {
                             const element = ratingsArr[index];
                             console.log(element.Source + " rated this: " + element.Value);
                         }
-                        console.log("Country of origin: " + data.Country);
-                        console.log("Original language: " + data.Language);
-                        console.log("Actors in film: " + data.Actors);
+                        console.log(country);
+                        console.log(language);
+                        console.log(actors);
                     }
                 )
             }
@@ -132,6 +183,7 @@ function liri(commandTerm, searchTerm) {
             
             break;
         default:
+            console.log("I'm sorry dave, I'm afraid I can't do that.");
             break;
     }
 }
