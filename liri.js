@@ -1,8 +1,11 @@
 require("dotenv").config();
+const Spotify = require("node-spotify-api");
+const axios = require("axios");
+const moment = require("moment");
 var keys = require("./keys.js");
 var spotify = new Spotify(keys.spotify);
-var omdb = new omdb(keys.omdb);
-var bands = new bit(keys.bit);
+var omdb = keys.omdb;
+var bands = keys.bit;
 
 var input = process.argv;
 var command = process.argv[2];
@@ -18,12 +21,16 @@ switch (command) {
         var URL = "https://rest.bandsintown.com/artists/" + searchTerm + "/events?app_id=codingbootcamp"
         axios.get(URL).then(
             function(response) {
-                var dataArr = response;
+                // console.log(response.data);
+                
+                var dataArr = response.data;
                 for (let index = 0; index < dataArr.length; index++) {
                     const element = dataArr[index];
                     console.log(element.lineup[0] + " will be performing at " + element.venue.name);
                     console.log("Located in " + element.venue.city);
                     console.log("Doors open  " + element.datetime);
+                    console.log("=====");
+                    
                 }
                 
                 
