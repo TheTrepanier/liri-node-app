@@ -27,7 +27,7 @@ function liri(commandTerm, searchTerm) {
                     // console.log(response.data);
                     
                     var dataArr = response.data;
-                    for (let index = 0; index < dataArr.length; index++) {
+                    for (let index = 0; index < 4; index++) {
                         const element = dataArr[index];
                         var lineup = element.lineup[0] + " will be performing at " + element.venue.name;
                         var concertLocation = "Located in " + element.venue.city;
@@ -74,7 +74,7 @@ function liri(commandTerm, searchTerm) {
             } else {
                 spotify.search({type: "track", query: searchTerm}).then(function(response) {
                     var dataArr = response.tracks.items;
-                    for (let index = 0; index < dataArr.length; index++) {
+                    for (let index = 0; index < 1; index++) {
                         const element = dataArr[index];
                         var artist = "Artist name: " + element.artists[0].name;
                         var album = "Album name: " + element.album.name;

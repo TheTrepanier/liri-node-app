@@ -14,237 +14,48 @@ Set It Off will be performing at Backstage by the Mill
 Located in Paris
 Doors open  2019-04-20T19:00:33
 =====
-Set It Off will be performing at Kavka Oudaan
-Located in Antwerpen
-Doors open  2019-04-21T19:00:41
-=====
-Set It Off will be performing at Melkweg
-Located in Amsterdam
-Doors open  2019-04-23T19:00:51
-=====
-Set It Off will be performing at MTC
-Located in Cologne
-Doors open  2019-04-25T19:00:23
-=====
-Set It Off will be performing at headCRASH
-Located in Hamburg
-Doors open  2019-04-26T19:00:14
-=====
-Set It Off will be performing at Musik & Frieden
-Located in Berlin
-Doors open  2019-04-27T19:00:14
-=====
-Set It Off will be performing at Zepp@BIGBOX
-Located in Singapore
-Doors open  2019-05-01T14:00:27
-=====
-Set It Off will be performing at Black Sheep
-Located in Colorado Springs
-Doors open  2019-06-11T19:00:00
-=====
-Set It Off will be performing at The Bottleneck
-Located in Lawrence
-Doors open  2019-06-12T19:00:00
+Set It Off will be performing at Academy 3
+Located in Manchester
+Doors open  2019-04-16T19:00:09
 =====
 Set It Off will be performing at The Garage
-Located in Burnsville
-Doors open  2019-06-14T19:00:00
+Located in London
+Doors open  2019-04-18T19:00:55
 =====
-Set It Off will be performing at The Rave
-Located in Milwaukee
-Doors open  2019-06-15T19:00:00
+Set It Off will be performing at O2 institute 2 
+Located in Birmingham
+Doors open  2019-04-17T19:00:35
 =====
-Set It Off will be performing at Wooly's
-Located in Des Moines
-Doors open  2019-06-16T19:00:00
-=====
-Set It Off will be performing at Fubar
-Located in St. Louis
-Doors open  2019-06-18T19:00:00
-=====
-Set It Off will be performing at The Basement East
-Located in Nashville
-Doors open  2019-06-19T19:00:00
-=====
-Set It Off will be performing at The Citadel
-Located in Indianapolis
-Doors open  2019-06-21T19:00:00
-=====
-Set It Off will be performing at Newport Music Hall
-Located in Columbus
-Doors open  2019-06-22T19:00:00
-=====
-Set It Off will be performing at Elevation
-Located in Grand Rapids
-Doors open  2019-06-23T19:00:00
-=====
-Set It Off will be performing at Rec Room
-Located in Buffalo
-Doors open  2019-06-25T19:00:00
-=====
-Set It Off will be performing at The Chance Theater
-Located in Poughkeepsie
-Doors open  2019-06-26T19:00:00
-=====
-Set It Off will be performing at The Webster
-Located in Harford
-Doors open  2019-06-28T19:00:00
-=====
-Set It Off will be performing at Canal Club
-Located in Richmond
-Doors open  2019-06-29T19:00:00
-=====
-Set It Off will be performing at The Met
-Located in Pawtucket
-Doors open  2019-07-02T19:00:00
-=====
-Set It Off will be performing at Revolution
-Located in Amityville
-Doors open  2019-07-03T19:00:00
-=====
-Set It Off will be performing at Reverb
-Located in Reading
-Doors open  2019-07-05T19:00:00
-=====
-Set It Off will be performing at The Fillmore
-Located in Silver Spring
-Doors open  2019-07-06T19:00:00
-=====
-Set It Off will be performing at Amo's Southend
-Located in Charlotte
-Doors open  2019-07-07T19:00:00
-=====
-Set It Off will be performing at The Kelsey Theater
-Located in Lake Park
-Doors open  2019-07-09T19:00:00
-=====
-Set It Off will be performing at Sad Summer Festival
-Located in Orlando
-Doors open  2019-07-10T19:00:28
-=====
-Set It Off will be performing at Vinyl Music Hall
-Located in Pensacola
-Doors open  2019-07-12T19:00:00
-=====
-Set It Off will be performing at Empire Garage
-Located in Austin
-Doors open  2019-07-13T19:00:00
-=====
-Set It Off will be performing at 191 Toole
-Located in Tucson
-Doors open  2019-07-16T19:00:00
-=====
-Set It Off will be performing at El Rey
-Located in Los Angeles
-Doors open  2019-07-18T19:00:00
-=====
-Set It Off will be performing at Strummers
-Located in Fresno
-Doors open  2019-07-19T19:00:00
-=====
-Set It Off will be performing at Shoreline Amphitheatre
-Located in Mountain View
-Doors open  2019-07-20T03:30:00
+Set It Off will be performing at Backstage by the Mill
+Located in Paris
+Doors open  2019-04-20T19:00:33
 =====
 Artist name: Panic! At The Disco
 Album name: Pray For The Wicked
 Song name:High Hopes
 Play a sample: https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
 =====
-Artist name: Kodaline
-Album name: In A Perfect World
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/5rZXBHUU2qz7huEckTwpqo
-=====
-Artist name: The Mayries
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83
+Artist name: Panic! At The Disco
+Album name: High Hopes (Don Diablo Remix)
+Song name:High Hopes - Don Diablo Remix
+Play a sample: https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo
 =====
 Artist name: Pink Floyd
 Album name: The Division Bell
 Song name:High Hopes
 Play a sample: https://open.spotify.com/track/5a4MgIUSf9K8wXLSm6xPEx
 =====
-Artist name: Panic! At The Disco
-Album name: High Hopes (Don Diablo Remix)
-Song name:High Hopes - Don Diablo Remix
-Play a sample: https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo
-=====
-Artist name: Kidz Bop Kids
-Album name: KIDZ BOP 39
+Artist name: Kodaline
+Album name: In A Perfect World
 Song name:High Hopes
-Play a sample: https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF
+Play a sample: https://open.spotify.com/track/5rZXBHUU2qz7huEckTwpqo
 =====
-Artist name: Panic! At The Disco
-Album name: High Hopes (White Panda Remix)
-Song name:High Hopes - White Panda Remix
-Play a sample: https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6
-=====
-Artist name: Yours Truly
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1
-=====
-Artist name: Our Last Night
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/16vw4e0hbPJ1zbzdIZncBp
-=====
-Artist name: Mike Stud
-Album name: 4THEHOMIES
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/1P1sjYdI8WzJiPxYQYvsS4
-=====
-Artist name: Daniel Jang
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/54D53Ai7ZoL005T7Tj8iIR
-=====
-Artist name: Panic! At The Disco
-Album name: Spotify Singles
-Song name:High Hopes - Recorded at Spotify Studios NYC
-Play a sample: https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM
-=====
-Artist name: Emilee
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/0GK4nfrXCwZclIGOKIUUJq
-=====
-Artist name: PARTYNEXTDOOR
-Album name: PARTYNEXTDOOR 3 (P3)
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/59m53E3AYkXCJhxXwstSHQ
-=====
-Artist name: Bruce Springsteen
-Album name: High Hopes
-Song name:Dream Baby Dream
-Play a sample: https://open.spotify.com/track/0un5QdMnuibGplkMHYorvg
-=====
-Artist name: Roll for It
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/2CGVaT5iTXFwoE5uaDfhdN
-=====
-Artist name: Bruce Springsteen
-Album name: High Hopes
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/4GbPT7LQNb1nQePEcakZvo
-=====
-Artist name: Pink Floyd
-Album name: Pulse (Live)
-Song name:High Hopes - Live
-Play a sample: https://open.spotify.com/track/6ZN6ziJYlKwdZf4A0mOGoS
-=====
-Artist name: Gorilla Biscuits
-Album name: Gorilla Biscuits
-Song name:High Hopes
-Play a sample: https://open.spotify.com/track/2C3q8kElxfujYlrC5mJ8R1
-=====
-Artist name: Jack Ingram
-Album name: Big Dreams & High Hopes
-Song name:Barefoot And Crazy
-Play a sample: https://open.spotify.com/track/743UzZj0Yzh9IYJEzH2f5H
+Spirited Away was released in 2001
+During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+Directed by: Hayao Miyazaki, Kirk Wise
+Country of origin: Japan
+Original language: Japanese, English
+Actors in film: Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô
 =====
 Looks like you didn't search for anything, try this!
 Up We Go
@@ -258,12 +69,104 @@ ByLights
 Little Machines (Deluxe Version)
 https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
 =====
-Princess Mononoke was released in 1997
-On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
-Directed by: Hayao Miyazaki
-Country of origin: Japan
-Original language: Japanese
-Actors in film: Billy Crudup, Billy Bob Thornton, Minnie Driver, John DiMaggio
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
+=====
+Artist name: NCT DREAM
+Album name: We Go Up - The 2nd Mini Album
+Song name:We Go Up
+Play a sample: https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW
+=====
+Artist name: Lights
+Album name: Little Machines
+Song name:Running with the Boys
+Play a sample: https://open.spotify.com/track/0wL87Fd27L4ow9CoMDP9wI
+=====
+Artist name: Stromae
+Album name: Racine Carrée (Standard US Version)
+Song name:Formidable
+Play a sample: https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines
+https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l
+=====
+Looks like you didn't search for anything, try this!
+Up We Go
+ByLights
+Little Machines (Deluxe Version)
+https://open.spotify.com/track/7Hew8P4yKpYeuGmfS4OB4s
 =====
 The Greatest Showman was released in 2017
 Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.
@@ -276,99 +179,4 @@ Artist name: The Ready Set
 Album name: The Bad & The Better
 Song name:Give Me Your Hand (Best Song Ever)
 Play a sample: https://open.spotify.com/track/38pnSnvIxe1MhQlFVdZFBW
-=====
-Artist name: Alen Vido
-Album name: Hola
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/5Qz9WfQ0L2M1NHxdhsQwEp
-=====
-Artist name: Shannon K
-Album name: Give Me Your Hand
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/3Yuea1EBpf03D6QKcvwtQo
-=====
-Artist name: George Winston
-Album name: Plains
-Song name:Give Me Your Hand / La Valse...
-Play a sample: https://open.spotify.com/track/4WksbtVAWVFksy4qMVovAt
-=====
-Artist name: Semaj
-Album name: Give Me Your Hand
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/5xb6rhe3IW6WzdqpkehlDK
-=====
-Artist name: Dirk Freymuth
-Album name: Celtic Meditation
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/59eTH3gtrjKXOc2cpVNN07
-=====
-Artist name: Andrew Goldstein
-Album name: Escape from Planet Earth
-Song name:Give Me Your Hand (Best Song Ever)
-Play a sample: https://open.spotify.com/track/0zh94d6hzJfqznRVqeROYx
-=====
-Artist name: The Wolfe Tones
-Album name: At Their Very Best Live
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/5nd7rbBy2GxfwTqQim121n
-=====
-Artist name: Dirk Freymuth
-Album name: Celtic Music for Stress Relief
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/1RgSAMpkAC0DMQPBSOvLsS
-=====
-Artist name: Enter The Worship Circle
-Album name: Fourth Circle (Remastered)
-Song name:Give Me Your Hand (Psalm 133) [Remastered]
-Play a sample: https://open.spotify.com/track/3WNR4NynYqnTlitXr8lLv0
-=====
-Artist name: Jay Ungar
-Album name: The Lovers' Waltz
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/1Ov86OVylyme5n4YG3MsFi
-=====
-Artist name: Mashuta
-Album name: Frozen
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/50ngYjo8dZT0XrePlsA6Jx
-=====
-Artist name: Geppetto
-Album name: White Noise Machine Baby
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/2GzDHxNXKeZPtAjUOCdrSQ
-=====
-Artist name: El McMeen
-Album name: Dancing the Strings
-Song name:Skye Boat Song/give Me Your Hand
-Play a sample: https://open.spotify.com/track/7p3m0Q65lguBsmQgCPq8Ab
-=====
-Artist name: Tickled Pink
-Album name: Texas Funk
-Song name:Reach Out - And Give Me Your Hand
-Play a sample: https://open.spotify.com/track/2Kfs4QvtOJCtiLSCTuiflJ
-=====
-Artist name: Red Flag
-Album name: Naïve Art [Special Edition]
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/3JA9IS87PrsqMBXyiflvz7
-=====
-Artist name: John Mock
-Album name: Celtic Visions
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/6IpQTAjaQgB2Xwqhm2tswE
-=====
-Artist name: Jeff Victor
-Album name: Celtic Romance
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/6L9W9donU7iG1fq5E3I2hQ
-=====
-Artist name: The Chieftains
-Album name: The Essential Chieftains
-Song name:The Munster Cloak/Tabhair Dom Do Lamh (Give Me Your Hand)
-Play a sample: https://open.spotify.com/track/5l5w35FApkikWxt6T7Us0f
-=====
-Artist name: The Gardyne Chamber Ensemble
-Album name: Celtic Moods
-Song name:Give Me Your Hand
-Play a sample: https://open.spotify.com/track/3OVpZRfyMB8UsE8POX72Hr
 =====
